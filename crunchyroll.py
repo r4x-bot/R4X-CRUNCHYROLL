@@ -138,6 +138,8 @@ def login(email, pasw, tok, ID):
 
 tok = console.input("[bold cyan]ENTER YOUR BOT TOKEN ➾ [/bold cyan]")
 
+print()
+
 ID = console.input("[bold cyan]ENTER YOUR USER ID ➾ [/bold cyan]")
 
 print()
